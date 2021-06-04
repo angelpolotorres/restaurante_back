@@ -1,0 +1,4 @@
+{"1":{
+	"id":1,
+	"camarero":"miguel","date":"2021-05-29T09:19:34.469Z","productos":"colacao",
+	"completa":false},"2":{"id":2,"camarero":"angel","date":"2021-05-29T09:19:46.865Z","productos":"pizza con piña","completa":false},"3":{"id":3,"camarero":"luis","date":"2021-05-30T15:25:53.169Z","productos":"empanada","completa":false},"4":{"id":4,"camarero":"lucia","date":"2021-05-30T15:27:45.608Z","productos":"albondigas","completa":false},"5":{"id":5,"camarero":"antia","date":"2021-05-30T15:28:17.783Z","productos":"tarta","completa":false},"6":{"id":6,"camarero":"Bill","date":"2021-05-30T15:28:52.567Z","productos":"Costillas","completa":false}}
